@@ -1,6 +1,8 @@
-# LuoKeeper
+# LuoKeeper（付费版）
 
-一款米哈游账号管理工具，支持原神、崩坏：星穹铁道、绝区零、崩坏3 国服与国际服的账号本地备份与快速切换，免重复扫码登录。
+LuoKeeper 付费版 — 米哈游账号管理工具，支持原神、崩坏：星穹铁道、绝区零、崩坏3 国服与国际服的账号本地备份与快速切换，免重复扫码登录。
+
+> **免费版**请前往：[B站介绍视频](https://www.bilibili.com/video/BV1dN9CBjE1R/) | [GitHub](https://github.com/Shilore0/miHoYoAccountManager) | [Gitee](https://gitee.com/Shilore0/miHoYoAccountManager)
 
 <p align="center">
   <img src="screenshots/main_light.png" width="500" alt="主界面">
@@ -88,4 +90,4 @@
 
 ---
 
-> 免费工具，严禁倒卖。
+> 付费版。免费版请见上方链接。
