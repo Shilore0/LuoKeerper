@@ -67,8 +67,21 @@ LuoKeeper — 米哈游账号管理工具，支持原神、崩坏：星穹铁道
 
 | 平台 | 链接 |
 |------|------|
-| Gitee（国内推荐） | [待补充] |
-| GitHub | [待补充] |
+| Gitee（国内推荐） | [LuoKeeper](https://gitee.com/Shilore0/LuoKeerper/) |
+| GitHub | [LuoKeeper](https://github.com/Shilore0/LuoKeerper) |
+
+### 安装包说明
+
+每个版本提供两种下载包：
+
+| 包名 | 说明 | 适用场景 |
+|------|------|----------|
+| `LuoKeeper_vX.X.X_Full.zip` | 完整包，包含 exe + 所有依赖 DLL | 首次安装 |
+| `LuoKeeper_vX.X.X_Update.exe` | 更新包，仅包含 exe | 已安装过旧版本，覆盖替换即可 |
+
+**首次安装**：下载 `Full.zip`，解压到任意目录，运行 `LuoKeeper.exe`
+
+**版本更新**：下载 `Update.exe`，替换原安装目录中的旧 exe
 
 ---
 
